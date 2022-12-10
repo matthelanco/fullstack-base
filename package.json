@@ -21,7 +21,7 @@
 	},
 	"homepage": "https://github.com/matthelanco/pet-catalog#readme",
 	"dependencies": {
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"pg-promise": "^8.7.5"
 	},
 	"devDependencies": {
